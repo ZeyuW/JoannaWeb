@@ -4,3 +4,7 @@
 
  URL: lovejoanna.xyz
 
+
+ Corresponding git:
+ 	1. ZeyuW/JoannaWeb: origin master
+	2. simplee server: publish master
